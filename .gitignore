@@ -1,0 +1,11 @@
+.DS_Store
+venv
+__pycache__
+.idea
+.TODO
+errorlog*.txt
+IPSW
+custom
+*.ipsw
+.vscode
+*.code-workspace
